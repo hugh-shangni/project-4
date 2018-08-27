@@ -10,7 +10,7 @@ app.moviesAPIKey = '0f074982f0e6a999d59865dff2184e86';
 app.moviePage;
 app.moviesGenreIDs = {
     convo: [80, 99, 9648], // crime, documentary, mystery
-    laughs: [35, 12, 18, 10751], // comedy, adventure, drama, family
+    laughs: [35, 12, 18, 28], // comedy, adventure, drama, family
     cuddles: [27, 10749, 53] // horror, romance, thriller
 };
 
